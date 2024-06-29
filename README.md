@@ -1,7 +1,7 @@
 # Aperture-Computing
 Sandbox for building artificial neural networks
 
-# Folders
+## Folders
 
 **tensors** - Input tensors that contain 225 elements (15x15 pixels)  
 **bitmaps** - A collection of bitmaps of letters  
